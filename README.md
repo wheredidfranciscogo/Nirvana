@@ -1,4 +1,4 @@
 # Nirvana
 New Nirvana Version App
 
-App that would lovely and kindly would take you to nirvana 💥
+App that lovely and kindly would take you to nirvana 💥
